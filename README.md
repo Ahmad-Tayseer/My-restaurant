@@ -25,3 +25,7 @@ Below you can find the **MENU**
 Feel free to contact us on the number: 
 
 ** 00 - 3992538 ** 
+
+The wire frame of our site:
+
+![](Wireframe.png)
